@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\AdvancedCalculator 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_test.xml.flat",
+        "source": "F:\\AdvancedCalculator 1\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "F:\\AdvancedCalculator 1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_black_background.jpg.flat",
+        "source": "F:\\AdvancedCalculator 1\\app\\src\\main\\res\\drawable-xhdpi\\black_background.jpg"
+    },
+    {
+        "merged": "F:\\AdvancedCalculator 1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "F:\\AdvancedCalculator 1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\AdvancedCalculator 1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\AdvancedCalculator 1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AdvancedCalculator 1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\AdvancedCalculator 1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AdvancedCalculator 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_scientific.xml.flat",
+        "source": "F:\\AdvancedCalculator 1\\app\\src\\main\\res\\layout\\activity_scientific.xml"
+    },
+    {
+        "merged": "F:\\AdvancedCalculator 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\AdvancedCalculator 1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AdvancedCalculator 1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "F:\\AdvancedCalculator 1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AdvancedCalculator 1\\app\\build\\intermediates\\res\\merged\\debug\\menu_scientific.xml.flat",
+        "source": "F:\\AdvancedCalculator 1\\app\\src\\main\\res\\menu\\scientific.xml"
+    },
+    {
+        "merged": "F:\\AdvancedCalculator 1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "F:\\AdvancedCalculator 1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
